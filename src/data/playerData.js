@@ -2,22 +2,22 @@ const playersList = [
     {
         name: "Tommy",
         id: 0,
-        score: 5,
+        score: 0,
     },
     {
         name: "Andy",
         id: 1,
-        score: 7,
+        score: 0,
     },
     {
         name: "Don",
         id: 2,
-        score: 2,
+        score: 0,
     },
     {
         name: "Bria",
         id: 3,
-        score: 4,
+        score: 0,
     },
 ]
 
